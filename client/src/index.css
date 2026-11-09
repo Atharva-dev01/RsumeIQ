@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #0F172A;
+}
+.container-custom{
+  @apply max-w-7xl mx-auto px-6;
+}

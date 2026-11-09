@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: #111827;
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+}
